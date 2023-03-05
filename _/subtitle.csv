@@ -1,8 +1,8 @@
-iso,lang,film,year,sub,sample
-nor,norwegian,"Edvard Munch",1974,,
-swe,swedish,"Män som hatar kvinnor",2009,,
-swe,swedish,"Flickan som lekte med elden",2009,,
-swe,swedish,"Luftslottet som sprängdes",2009,,
-eng,english,"The Green Knight",2021,,
-spa,spanish,"La isla mínima",2014,,
-deu,german,"Das Herz ist ein dunkler Wald",2007,,
+iso , lang      , film                          , year , sub , sample
+nor , norwegian , Edvard Munch                  , 1974 ,     ,
+swe , swedish   , Män som hatar kvinnor         , 2009 ,     ,
+swe , swedish   , Flickan som lekte med elden   , 2009 ,     ,
+swe , swedish   , Luftslottet som sprängdes     , 2009 ,     ,
+eng , english   , The Green Knight              , 2021 ,     ,
+spa , spanish   , La isla mínima                , 2014 ,     ,
+deu , german    , Das Herz ist ein dunkler Wald , 2007 ,     ,

@@ -1,25 +1,25 @@
-tag,
-year,年份
-album,专辑
-track,音轨
-title,标题
-filename,文件名
-artist,艺术家
-lyricist,作词人
-composer,作曲人
-compilation,"汇编, 编曲"
-director,"监制, 制作(producer)"
-supervisor,指导
-publisher,出版
-copyright,版权
-license,许可
-origartist,原创
-origfilename,原名
-origlyricist,原歌词
-origyear,原年份
-credits,演职员表
-[instrument],乐器
-recording,录音
-mixing,混音
-cover,封面
-artwork,插图
+tag          ,
+year         , 年份
+album        , 专辑
+track        , 音轨
+title        , 标题
+filename     , 文件名
+artist       , 艺术家
+lyricist     , 作词人
+composer     , 作曲人
+compilation  , 汇编、编曲
+director     , 监制、制作(producer)
+supervisor   , 指导
+publisher    , 出版
+copyright    , 版权
+license      , 许可
+origartist   , 原创
+origfilename , 原名
+origlyricist , 原歌词
+origyear     , 原年份
+credits      , 演职员表
+[instrument] , 乐器
+recording    , 录音
+mixing       , 混音
+cover        , 封面
+artwork      , 插图

@@ -1,0 +1,155 @@
+hex,name,pinyin,desc
+#ffb3a7,粉红,fen hong,同妃红
+#ed5736,妃,fei,古同绯
+#f00056,品红,pin hong,
+#f47983,桃红,tao hong,
+#db5a6b,海棠红,hai tang hong,
+#f20c00,石榴红,shi liu hong,
+#c93756,樱桃,ying tao,
+#f05654,银红,yin hong,银朱和粉红颜料配成的颜色。有光泽的浅红
+#ff2121,大红,da hong,同绛。正红色
+#8c4356,绛紫,jiang zi,
+#c83c23,绯红,fei hong,
+#9d2933,胭脂,yan zhi,
+#ff4c00,朱红,zhu hong,同铅朱。朱砂的红色
+#ff4e20,丹,dan,丹砂的红色
+#f35336,彤,tong,赤色
+#cb3a56,茜,qian,茜草染的红色
+#ff2d51,火红,huo hong,
+#c91f37,赫赤,he chi,
+#ef7a82,嫣红,yan hong,
+#ff0097,洋红,yang hong,
+#ff3300,炎,yan,引申为红色
+#c3272b,赤,chi,火的红色
+#a98175,绾,wan,浅绛色
+#c32136,枣红,zao hong,
+#b36d61,檀,tan,浅绛色
+#be002f,殷红,yan hong,浅黑的红色
+#dc3023,酡红,tuo hong,同潮红
+#f9906f,酡颜,tuo yan,同潮红
+#fff143,鹅黄,e huang,
+#faff72,鸭黄,ya huang,
+#eaff56,樱草,ying cao,
+#ffa631,杏黄,xing huang,
+#ff8c31,杏红,xing hong,
+#ff8936,橘黄,ju huang,
+#ffa400,橙黄,cheng huang,
+#ff7500,橘红,ju hong,
+#ffc773,姜黄,jiang huang,浅白的黄色
+#f0c239,缃,xiang,浅黄色
+#fa8c35,橙,cheng,
+#b35c44,茶,cha,
+#a88462,驼,tuo,
+#c89b40,昏黄,hun huang,
+#60281e,栗色,li se,
+#b25d25,棕,zong,棕毛的色
+#827100,棕绿,zong lv,
+#7c4b00,棕黑,zong hei,
+#9b4400,棕红,zong hong,
+#ae7000,棕黄,zong huang,
+#955539,赭,zhe,古人用作饰面
+#ca6924,琥珀,hu po,
+#6e511e,褐,he,
+#d3b17d,枯黄,ku huang,
+#e29c45,黄栌,huang lu,
+#896c39,秋,qiu,
+#d9b611,秋香,qiu xiang,
+#bddd22,嫩绿,nen lv,
+#c9dd22,柳黄,liu huang,
+#afdd22,柳绿,liu lv,
+#789262,竹青,zhu qing,
+#a3d900,葱黄,cong huang,
+#9ed900,葱绿,cong lv,
+#0eb83a,葱青,cong qing,
+#0aa344,青葱,qing cong,
+#00bc12,油绿,you lv,
+#0c8918,绿沉,lv chen,
+#1bd1a5,碧,bi,
+#2add9c,碧绿,bi lv,
+#48c0a3,青碧,qing bi,
+#3de1ad,翡翠,fei cui,
+#40de5a,草绿,cao lv,
+#00e09e,青,qing,
+#00e079,青翠,qing cui,
+#c0ebd7,青白,qing bai,
+#e0eee8,鸭卵青,ya luan qing,
+#bbcdc5,蟹壳青,xie ke qing,
+#424c50,鸦青,ya qing,鸦羽的紫绿光的黑色
+#9ed048,豆绿,dou lv,浅黄绿色
+#96ce54,豆青,dou qing,浅青绿色
+#7bcfa6,石青,shi qing,淡灰绿色
+#7bcfa6,玉,yu,
+#7fecad,缥,piao,浅白的绿色
+#a4e2c6,艾绿,ai lv,
+#21a675,柏绿,bai lv,
+#057748,松绿,song lv,
+#bce672,松花,song hua,松树花粉的绿色
+#177cb0,靛青,dian qing,蓼蓝与石灰所制的蓝色
+#065279,靛蓝,dian lan,蓼蓝或菘蓝等所制的蓝色
+#3eede7,碧蓝,bi lan,
+#70f3ff,蔚蓝,wei lan,
+#4b5cc4,宝蓝,bao lan,
+#a1afc9,蓝灰,lan hui,
+#2e4e7e,藏青,zang qing,
+#3b2e7e,藏蓝,zang lan,
+#4a4266,黛,dai,古女子用作画眉
+#426666,黛绿,dai lv,
+#425066,黛蓝,dai lan,
+#574266,黛紫,dai zi,
+#815463,紫酱,zi jiang,
+#815476,酱紫,jiang zi,
+#4c221b,紫檀,zi tan,
+#003371,绀青,gan qing,
+#56004f,紫棠,zi tang,
+#801dae,青莲,qing lian,
+#4c8dae,群青,qun qing,
+#b0a4e3,雪青,xue qing,
+#cca4e3,丁香,ding xiang,
+#edd1d8,藕,ou,
+#e4c6d0,藕荷,ou he,
+#75878a,苍,cang,杂有黑的
+#519a73,苍黄,cang huang,
+#a29b7c,苍青,cang qing,
+#7397ab,苍黑,cang hei,
+#d1d9e0,苍白,cang bai,
+#88ada6,水,shui,
+#f3d3e7,水红,shui hong,
+#d4f2e7,水绿,shui lv,
+#d2f0f4,水蓝,shui lan,
+#d3e0f3,淡青,dan qing,
+#30dff3,湖蓝,hu lan,
+#25f8cb,湖绿,hu lv,
+#ffffff,净白,jing bai,同纯白
+#fffbf0,象牙白,xiang ya bai,
+#f0fcff,雪白,xue bai,
+#d6ecf0,月白,yue bai,
+#f2ecde,缟,gao,白色
+#e0f0e9,素,su,白色或无色
+#f3f9f1,荼白,tu bai,
+#e9f1f6,霜,shuang,
+#c2ccd0,花白,hua bai,杂有灰的白色
+#fcefe8,鱼肚白,yu du bai,
+#e3f9fd,莹白,ying bai,
+#808080,灰,hui,
+#eedeb0,牙,ya,
+#f0f0f4,铅白,qian bai,铅粉的白色
+#622a1d,玄,xuan,
+#3d3b4f,玄青,xuan qing,
+#725e82,乌,wu,
+#392f41,乌黑,wu hei,
+#161823,漆黑,qi hei,
+#50616d,墨,mo,
+#758a99,墨灰,mo hui,
+#493131,缁,zi,帛黑色
+#312520,煤黑,mei hei,
+#5d513c,黧,li,浅黄的黑色
+#75664d,黎,li,黎草色
+#6b6882,黝,you,浅青的黑色
+#665757,黝黑,you hei,
+#41555d,黯,an,黑色
+#F2BE45,赤金,chi jin,
+#eacd76,金,jin,光泽的深黄色
+#e9e7ef,银白,yin bai,银光的白色
+#549688,铜绿,tong lv,
+#a78e44,乌金,wu jin,
+#bacac6,老银,lao yin,氧化后的银色
